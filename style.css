@@ -1,10 +1,10 @@
 table{
-  background-color: rgb(0, 190, 255);
+  background-color: white;
 }
 th{
   font-size: 35px;
   font-weight: bold;
-  background-color: rgb(243, 243, 88);
+  background-color: rgb(240, 240, 101);
   color: red;
   padding: 20px;
 
@@ -12,6 +12,7 @@ th{
 td{
   font-weight: bold;
   padding: 5px;
+  background-color: rgb(0, 190, 255);
 }
 .button-cell{
   text-align: center;
