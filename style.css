@@ -1,0 +1,29 @@
+table{
+  background-color: rgb(0, 190, 255);
+}
+th{
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(243, 243, 88);
+  color: red;
+  padding: 20px;
+
+}
+td{
+  font-weight: bold;
+  padding: 5px;
+}
+.button-cell{
+  text-align: center;
+  height: 50px;
+
+
+}
+.button1 {
+  padding: 10px 30px 10px 30px ;
+  font-size: 18px;
+}
+#email{
+  width: 210px;
+  height: 80px;
+}
