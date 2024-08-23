@@ -21,10 +21,15 @@ td{
 
 }
 .button1 {
-  padding: 10px 30px 10px 30px ;
+  padding: 15px 30px 10px 30px ;
   font-size: 18px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
 #email{
   width: 210px;
   height: 80px;
+}
+.droppy{
+  width: 7em;
 }
